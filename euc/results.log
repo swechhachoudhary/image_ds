@@ -1,0 +1,12 @@
+INFO:root:PCoA using Euclidean distance metric for n_components=32
+INFO:root:data size is =(10000, 784)
+INFO:root:Accuracy score for PCoA Euclidean for n_components=32 is =0.5784
+INFO:root:PCoA using Euclidean distance between means of VAE latent space representation for n_components=32
+INFO:root:data size is =(10000, 784)
+INFO:root:Accuracy score for PCoA using Euclidean distance between means of VAE for n_components=32 is =0.603
+INFO:root:Isomap using Euclidean distance metric for n_components=32
+INFO:root:Data set size is : (10000,784)
+INFO:root:Accuracy score for Isomap using Euclidean distance metric for n_components=32 is =0.7397
+INFO:root:Isomap using Euclidean distance between means of VAE latent space representation for n_components=2
+INFO:root:Data set size is : (10000,784)
+INFO:root:Accuracy score for Isomap using Euclidean distance between means of VAE latent space representation for n_components=32 is =0.7561

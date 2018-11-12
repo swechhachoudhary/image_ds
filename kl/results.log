@@ -1,0 +1,12 @@
+INFO:root:PCoA using Euclidean distance metric for n_components=32
+INFO:root:data size is =(10000, 784)
+INFO:root:Accuracy score for PCoA Euclidean for n_components=32 is =0.5615
+INFO:root:PCoA using Symmetrised KL divergence on VAE latent space representation for n_components=32
+INFO:root:data size is =(10000, 784)
+INFO:root:Accuracy score for PCoA using Symmetrised KL divergence on VAE for n_components=32 is =0.1575
+INFO:root:Isomap using Euclidean distance metric for n_components=32
+INFO:root:Data set size is : (10000,784)
+INFO:root:Accuracy score for Isomap using Euclidean distance metric for n_components=32 is =0.7397
+INFO:root:Isomap using Symmetrised KL divergence on VAE latent space representation for n_components=2
+INFO:root:Data set size is : (10000,784)
+INFO:root:Accuracy score for Isomap using Symmetrised KL divergence on VAE latent space representation for n_components=32 is =0.4511
